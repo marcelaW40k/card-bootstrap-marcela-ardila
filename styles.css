@@ -1,0 +1,25 @@
+.content{
+    background-color: #c49ce9;
+}
+.content-card{
+    border-radius: 30px;
+    height: 26rem;
+}
+
+.content-image{
+     height: 220px;
+     object-fit: cover;
+     border-radius: 30px;
+       border: 4px solid white; /* borde bonito */
+  margin-top: -60px; /* 👈 esto la sube */
+  background-color: white;
+}
+
+.card-body{
+    text-align: center;
+}
+
+.btnLinkedin{
+    background-color: #9d4de7 !important;
+    color: white !important;
+}
